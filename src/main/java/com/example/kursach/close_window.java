@@ -22,7 +22,7 @@ public class close_window {
     @FXML
     private Button close_button;
 
-    @FXM
+    @FXML
     void close(ActionEvent event ) {
 
     }
